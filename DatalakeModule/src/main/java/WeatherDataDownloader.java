@@ -1,8 +1,7 @@
-import org.jsoup.Connection;
-import org.jsoup.Jsoup;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import scala.util.parsing.combinator.testing.Str;
+import org.jsoup.Connection;
+import org.jsoup.Jsoup;
 
 import java.io.IOException;
 

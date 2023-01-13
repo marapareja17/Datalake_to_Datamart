@@ -1,11 +1,13 @@
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.reflect.TypeToken;
-import org.apache.commons.io.FileUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.IOException;
 import java.lang.reflect.Type;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -25,7 +27,6 @@ public class WeatherDataSaver {
         // Crea la carpeta "datalake" si no existe
         new File(DATALAKE_FOLDER).mkdir();
         loadEvents();
-        //HashMap<String, FileWriter> dateFileWriterMap = new HashMap<>();
 
         for (int i = 0; i < weatherData.length(); i++) {
             JSONObject station = weatherData.getJSONObject(i);
@@ -52,11 +53,6 @@ public class WeatherDataSaver {
                 if (!Files.exists(file)) {
                     Files.createFile(file);
                 }
-//                temporal.createNewFile();
-//                FileWriter fileWriter = new FileWriter(temporal);
-//                dateFileWriterMap.put(date, fileWriter);
-//
-//                FileWriter fileWriter = dateFileWriterMap.get(date);
 
                 // Escribir los eventos en formato json en el fichero creado
                 JsonObject event = new JsonObject();

@@ -1,10 +1,5 @@
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.sql.SQLException;
-
-
-import static com.amazonaws.regions.ServiceAbbreviations.Directory;
 
 public class DatamartBuilder {
     public static void main(String[] args) throws SQLException, IOException {

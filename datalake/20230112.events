@@ -1,0 +1,425 @@
+{"fint":"2023-01-12T07:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.5,"tamin":5.7}
+{"fint":"2023-01-12T07:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.5,"tamin":6.9}
+{"fint":"2023-01-12T07:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.3,"tamin":10.7}
+{"fint":"2023-01-12T07:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.1,"tamin":18.7}
+{"fint":"2023-01-12T07:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":19.6,"tamin":19.0}
+{"fint":"2023-01-12T07:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":10.4,"tamin":10.0}
+{"fint":"2023-01-12T07:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":12.1,"tamin":11.8}
+{"fint":"2023-01-12T07:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":16.1,"tamin":15.5}
+{"fint":"2023-01-12T07:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":18.8,"tamin":18.2}
+{"fint":"2023-01-12T07:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":16.9,"tamin":16.2}
+{"fint":"2023-01-12T07:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":12.1,"tamin":11.6}
+{"fint":"2023-01-12T07:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":18.9,"tamin":18.4}
+{"fint":"2023-01-12T07:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":18.4,"tamin":17.0}
+{"fint":"2023-01-12T07:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.6,"tamin":14.8}
+{"fint":"2023-01-12T07:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.4,"tamin":14.7}
+{"fint":"2023-01-12T07:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.2,"tamin":17.4}
+{"fint":"2023-01-12T07:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":18.9,"tamin":18.2}
+{"fint":"2023-01-12T07:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.8,"tamin":12.3}
+{"fint":"2023-01-12T07:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.5,"tamin":16.1}
+{"fint":"2023-01-12T07:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.4,"tamin":18.7}
+{"fint":"2023-01-12T07:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.7,"tamin":18.7}
+{"fint":"2023-01-12T07:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.5,"tamin":11.1}
+{"fint":"2023-01-12T07:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.8,"tamin":15.3}
+{"fint":"2023-01-12T07:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.6,"tamin":17.4}
+{"fint":"2023-01-12T07:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":19.2,"tamin":18.6}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.5,"tamin":6.1}
+{"fint":"2023-01-12T08:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.6,"tamin":7.4}
+{"fint":"2023-01-12T08:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.6,"tamin":10.9}
+{"fint":"2023-01-12T08:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":18.9,"tamin":18.2}
+{"fint":"2023-01-12T08:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":19.4,"tamin":19.2}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":10.3,"tamin":10.1}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":12.3,"tamin":12.1}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":15.5,"tamin":15.2}
+{"fint":"2023-01-12T08:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":18.9,"tamin":18.4}
+{"fint":"2023-01-12T08:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":16.8,"tamin":16.1}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":11.4,"tamin":11.2}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":18.5,"tamin":18.1}
+{"fint":"2023-01-12T08:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":17.7,"tamin":17.1}
+{"fint":"2023-01-12T08:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.4,"tamin":15.1}
+{"fint":"2023-01-12T08:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.2,"tamin":14.9}
+{"fint":"2023-01-12T08:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":18.9,"tamin":17.8}
+{"fint":"2023-01-12T08:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.0,"tamin":18.9}
+{"fint":"2023-01-12T08:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.9,"tamin":12.7}
+{"fint":"2023-01-12T08:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.4,"tamin":16.2}
+{"fint":"2023-01-12T08:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.7,"tamin":16.8}
+{"fint":"2023-01-12T08:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.4,"tamin":18.8}
+{"fint":"2023-01-12T08:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.4,"tamin":11.3}
+{"fint":"2023-01-12T08:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.7,"tamin":15.5}
+{"fint":"2023-01-12T08:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.2,"tamin":18.0}
+{"fint":"2023-01-12T08:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":18.9,"tamin":18.2}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.5,"tamin":6.2}
+{"fint":"2023-01-12T09:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.6,"tamin":7.3}
+{"fint":"2023-01-12T09:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.5,"tamin":10.6}
+{"fint":"2023-01-12T09:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":18.6,"tamin":18.1}
+{"fint":"2023-01-12T09:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":19.5,"tamin":18.3}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":10.5,"tamin":10.2}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":12.6,"tamin":12.2}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":15.5,"tamin":15.4}
+{"fint":"2023-01-12T09:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":20.9,"tamin":18.5}
+{"fint":"2023-01-12T09:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":16.9,"tamin":16.4}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":11.7,"tamin":11.2}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":19.3,"tamin":18.5}
+{"fint":"2023-01-12T09:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":18.5,"tamin":17.6}
+{"fint":"2023-01-12T09:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.6,"tamin":15.4}
+{"fint":"2023-01-12T09:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.3,"tamin":14.9}
+{"fint":"2023-01-12T09:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.1,"tamin":17.8}
+{"fint":"2023-01-12T09:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.1,"tamin":18.0}
+{"fint":"2023-01-12T09:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.9,"tamin":12.5}
+{"fint":"2023-01-12T09:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.2,"tamin":15.7}
+{"fint":"2023-01-12T09:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.6,"tamin":17.0}
+{"fint":"2023-01-12T09:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.7,"tamin":17.3}
+{"fint":"2023-01-12T09:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.4,"tamin":11.2}
+{"fint":"2023-01-12T09:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.7,"tamin":15.1}
+{"fint":"2023-01-12T09:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.2,"tamin":17.6}
+{"fint":"2023-01-12T09:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":19.2,"tamin":18.6}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.6,"tamin":6.1}
+{"fint":"2023-01-12T10:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.6,"tamin":7.3}
+{"fint":"2023-01-12T10:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.8,"tamin":11.0}
+{"fint":"2023-01-12T10:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.3,"tamin":18.2}
+{"fint":"2023-01-12T10:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":21.1,"tamin":18.5}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":10.6,"tamin":10.0}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":13.9,"tamin":12.9}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":17.1,"tamin":15.8}
+{"fint":"2023-01-12T10:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":23.2,"tamin":20.5}
+{"fint":"2023-01-12T10:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":19.4,"tamin":16.7}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":13.2,"tamin":11.9}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":20.4,"tamin":19.4}
+{"fint":"2023-01-12T10:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":19.2,"tamin":17.5}
+{"fint":"2023-01-12T10:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":17.0,"tamin":15.7}
+{"fint":"2023-01-12T10:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":16.7,"tamin":15.3}
+{"fint":"2023-01-12T10:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":20.5,"tamin":17.9}
+{"fint":"2023-01-12T10:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":20.4,"tamin":18.5}
+{"fint":"2023-01-12T10:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":13.6,"tamin":13.0}
+{"fint":"2023-01-12T10:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":17.2,"tamin":16.4}
+{"fint":"2023-01-12T10:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.4,"tamin":19.1}
+{"fint":"2023-01-12T10:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":20.0,"tamin":18.8}
+{"fint":"2023-01-12T10:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.7,"tamin":11.4}
+{"fint":"2023-01-12T10:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":16.0,"tamin":15.2}
+{"fint":"2023-01-12T10:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.9,"tamin":18.0}
+{"fint":"2023-01-12T10:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":20.1,"tamin":18.9}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.9,"tamin":6.6}
+{"fint":"2023-01-12T11:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.1,"tamin":7.6}
+{"fint":"2023-01-12T11:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.8,"tamin":11.2}
+{"fint":"2023-01-12T11:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.3,"tamin":19.0}
+{"fint":"2023-01-12T11:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":21.0,"tamin":19.5}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":11.0,"tamin":10.7}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":16.1,"tamin":13.9}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":19.2,"tamin":17.3}
+{"fint":"2023-01-12T11:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":22.1,"tamin":20.7}
+{"fint":"2023-01-12T11:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":22.4,"tamin":19.4}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":14.0,"tamin":12.7}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":21.1,"tamin":20.6}
+{"fint":"2023-01-12T11:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":20.4,"tamin":19.6}
+{"fint":"2023-01-12T11:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":18.2,"tamin":16.9}
+{"fint":"2023-01-12T11:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":16.8,"tamin":16.2}
+{"fint":"2023-01-12T11:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":20.5,"tamin":19.7}
+{"fint":"2023-01-12T11:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":20.8,"tamin":20.1}
+{"fint":"2023-01-12T11:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":14.1,"tamin":13.0}
+{"fint":"2023-01-12T11:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.7,"tamin":16.2}
+{"fint":"2023-01-12T11:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.5,"tamin":17.5}
+{"fint":"2023-01-12T11:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.7,"tamin":17.9}
+{"fint":"2023-01-12T11:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.9,"tamin":11.6}
+{"fint":"2023-01-12T11:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.8,"tamin":15.5}
+{"fint":"2023-01-12T11:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.5,"tamin":17.3}
+{"fint":"2023-01-12T11:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":21.4,"tamin":20.2}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.0,"tamin":6.7}
+{"fint":"2023-01-12T12:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.1,"tamin":7.7}
+{"fint":"2023-01-12T12:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":12.0,"tamin":11.5}
+{"fint":"2023-01-12T12:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.7,"tamin":19.2}
+{"fint":"2023-01-12T12:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":21.2,"tamin":20.0}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":11.3,"tamin":10.7}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":18.6,"tamin":16.5}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":19.9,"tamin":18.9}
+{"fint":"2023-01-12T12:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":20.7,"tamin":20.4}
+{"fint":"2023-01-12T12:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":22.3,"tamin":20.4}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":13.4,"tamin":12.8}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":21.6,"tamin":21.0}
+{"fint":"2023-01-12T12:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":21.0,"tamin":20.4}
+{"fint":"2023-01-12T12:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":18.4,"tamin":17.9}
+{"fint":"2023-01-12T12:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":16.8,"tamin":16.4}
+{"fint":"2023-01-12T12:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":21.4,"tamin":20.3}
+{"fint":"2023-01-12T12:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":21.4,"tamin":20.7}
+{"fint":"2023-01-12T12:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":13.6,"tamin":13.2}
+{"fint":"2023-01-12T12:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":17.0,"tamin":16.7}
+{"fint":"2023-01-12T12:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.0,"tamin":17.2}
+{"fint":"2023-01-12T12:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":20.2,"tamin":19.5}
+{"fint":"2023-01-12T12:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.9,"tamin":11.5}
+{"fint":"2023-01-12T12:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":16.1,"tamin":15.7}
+{"fint":"2023-01-12T12:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":19.0,"tamin":18.5}
+{"fint":"2023-01-12T12:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":22.0,"tamin":21.4}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.1,"tamin":6.9}
+{"fint":"2023-01-12T13:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.0,"tamin":7.8}
+{"fint":"2023-01-12T13:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":12.1,"tamin":11.4}
+{"fint":"2023-01-12T13:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":20.0,"tamin":19.1}
+{"fint":"2023-01-12T13:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":22.6,"tamin":20.6}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":12.1,"tamin":11.4}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":18.5,"tamin":17.6}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":20.5,"tamin":19.5}
+{"fint":"2023-01-12T13:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":21.1,"tamin":20.7}
+{"fint":"2023-01-12T13:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":22.9,"tamin":20.6}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":14.0,"tamin":13.7}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":21.8,"tamin":21.6}
+{"fint":"2023-01-12T13:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":21.4,"tamin":21.1}
+{"fint":"2023-01-12T13:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":18.8,"tamin":17.6}
+{"fint":"2023-01-12T13:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":17.6,"tamin":16.8}
+{"fint":"2023-01-12T13:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":22.0,"tamin":20.3}
+{"fint":"2023-01-12T13:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":21.4,"tamin":21.0}
+{"fint":"2023-01-12T13:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":14.1,"tamin":13.4}
+{"fint":"2023-01-12T13:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":17.7,"tamin":17.1}
+{"fint":"2023-01-12T13:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.2,"tamin":18.3}
+{"fint":"2023-01-12T13:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":20.9,"tamin":19.8}
+{"fint":"2023-01-12T13:00:00","ubi":"VALLESECO","idema":"C665T","tamax":12.1,"tamin":11.7}
+{"fint":"2023-01-12T13:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":16.4,"tamin":15.8}
+{"fint":"2023-01-12T13:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.9,"tamin":18.6}
+{"fint":"2023-01-12T13:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":22.2,"tamin":21.5}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.4,"tamin":6.7}
+{"fint":"2023-01-12T14:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.3,"tamin":7.7}
+{"fint":"2023-01-12T14:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":12.6,"tamin":11.6}
+{"fint":"2023-01-12T14:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":20.0,"tamin":19.1}
+{"fint":"2023-01-12T14:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":22.7,"tamin":21.7}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":14.1,"tamin":12.6}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":18.6,"tamin":17.5}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":21.7,"tamin":20.8}
+{"fint":"2023-01-12T14:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":21.2,"tamin":20.8}
+{"fint":"2023-01-12T14:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":22.7,"tamin":21.6}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":16.0,"tamin":14.3}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":22.7,"tamin":22.2}
+{"fint":"2023-01-12T14:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":21.4,"tamin":20.0}
+{"fint":"2023-01-12T14:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":19.4,"tamin":18.4}
+{"fint":"2023-01-12T14:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":17.9,"tamin":16.6}
+{"fint":"2023-01-12T14:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":21.8,"tamin":19.6}
+{"fint":"2023-01-12T14:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":21.4,"tamin":20.7}
+{"fint":"2023-01-12T14:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":14.6,"tamin":13.2}
+{"fint":"2023-01-12T14:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":17.8,"tamin":17.0}
+{"fint":"2023-01-12T14:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.5,"tamin":17.9}
+{"fint":"2023-01-12T14:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":20.7,"tamin":19.0}
+{"fint":"2023-01-12T14:00:00","ubi":"VALLESECO","idema":"C665T","tamax":12.7,"tamin":11.8}
+{"fint":"2023-01-12T14:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":16.1,"tamin":15.7}
+{"fint":"2023-01-12T14:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":19.3,"tamin":17.8}
+{"fint":"2023-01-12T14:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":23.1,"tamin":22.1}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.4,"tamin":7.1}
+{"fint":"2023-01-12T15:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.4,"tamin":8.1}
+{"fint":"2023-01-12T15:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":12.9,"tamin":11.6}
+{"fint":"2023-01-12T15:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.3,"tamin":18.5}
+{"fint":"2023-01-12T15:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":22.5,"tamin":20.2}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":13.9,"tamin":12.9}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":19.1,"tamin":18.3}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":22.0,"tamin":20.7}
+{"fint":"2023-01-12T15:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":21.5,"tamin":21.0}
+{"fint":"2023-01-12T15:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":24.3,"tamin":22.3}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":17.6,"tamin":15.2}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":22.7,"tamin":22.1}
+{"fint":"2023-01-12T15:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":21.3,"tamin":19.9}
+{"fint":"2023-01-12T15:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":19.5,"tamin":17.3}
+{"fint":"2023-01-12T15:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":16.8,"tamin":16.4}
+{"fint":"2023-01-12T15:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":21.3,"tamin":19.3}
+{"fint":"2023-01-12T15:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":21.3,"tamin":19.9}
+{"fint":"2023-01-12T15:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":13.4,"tamin":13.1}
+{"fint":"2023-01-12T15:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":17.4,"tamin":17.0}
+{"fint":"2023-01-12T15:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.8,"tamin":17.7}
+{"fint":"2023-01-12T15:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":20.3,"tamin":19.3}
+{"fint":"2023-01-12T15:00:00","ubi":"VALLESECO","idema":"C665T","tamax":12.0,"tamin":11.6}
+{"fint":"2023-01-12T15:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.6,"tamin":15.2}
+{"fint":"2023-01-12T15:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.5,"tamin":18.1}
+{"fint":"2023-01-12T15:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":22.7,"tamin":22.1}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.4,"tamin":7.0}
+{"fint":"2023-01-12T16:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.4,"tamin":7.9}
+{"fint":"2023-01-12T16:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":12.9,"tamin":12.0}
+{"fint":"2023-01-12T16:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.7,"tamin":17.9}
+{"fint":"2023-01-12T16:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":21.9,"tamin":20.4}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":14.3,"tamin":13.5}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":18.3,"tamin":17.6}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":22.3,"tamin":19.1}
+{"fint":"2023-01-12T16:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":21.6,"tamin":21.4}
+{"fint":"2023-01-12T16:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":24.1,"tamin":22.7}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":17.5,"tamin":16.1}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":22.4,"tamin":22.2}
+{"fint":"2023-01-12T16:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":21.0,"tamin":20.3}
+{"fint":"2023-01-12T16:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":18.4,"tamin":17.4}
+{"fint":"2023-01-12T16:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":16.9,"tamin":16.1}
+{"fint":"2023-01-12T16:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":21.0,"tamin":20.2}
+{"fint":"2023-01-12T16:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":20.4,"tamin":19.4}
+{"fint":"2023-01-12T16:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":13.6,"tamin":12.8}
+{"fint":"2023-01-12T16:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":17.4,"tamin":16.4}
+{"fint":"2023-01-12T16:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.4,"tamin":16.0}
+{"fint":"2023-01-12T16:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.4,"tamin":18.5}
+{"fint":"2023-01-12T16:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.9,"tamin":11.6}
+{"fint":"2023-01-12T16:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.7,"tamin":14.8}
+{"fint":"2023-01-12T16:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.5,"tamin":17.4}
+{"fint":"2023-01-12T16:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":22.8,"tamin":22.2}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.2,"tamin":7.0}
+{"fint":"2023-01-12T17:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.0,"tamin":7.9}
+{"fint":"2023-01-12T17:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":12.3,"tamin":11.5}
+{"fint":"2023-01-12T17:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":18.1,"tamin":17.7}
+{"fint":"2023-01-12T17:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":20.9,"tamin":19.5}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":14.3,"tamin":12.9}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":19.2,"tamin":18.4}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":19.5,"tamin":18.6}
+{"fint":"2023-01-12T17:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":21.7,"tamin":21.5}
+{"fint":"2023-01-12T17:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":24.1,"tamin":22.2}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":15.9,"tamin":14.0}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":22.6,"tamin":21.6}
+{"fint":"2023-01-12T17:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":20.4,"tamin":19.8}
+{"fint":"2023-01-12T17:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":17.8,"tamin":16.2}
+{"fint":"2023-01-12T17:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":16.0,"tamin":15.1}
+{"fint":"2023-01-12T17:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":20.1,"tamin":18.9}
+{"fint":"2023-01-12T17:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.5,"tamin":19.1}
+{"fint":"2023-01-12T17:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.8,"tamin":12.6}
+{"fint":"2023-01-12T17:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.2,"tamin":16.0}
+{"fint":"2023-01-12T17:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.8,"tamin":15.7}
+{"fint":"2023-01-12T17:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":20.0,"tamin":18.9}
+{"fint":"2023-01-12T17:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.5,"tamin":11.3}
+{"fint":"2023-01-12T17:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.3,"tamin":14.9}
+{"fint":"2023-01-12T17:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.6,"tamin":17.5}
+{"fint":"2023-01-12T17:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":22.6,"tamin":21.1}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":7.0,"tamin":6.8}
+{"fint":"2023-01-12T18:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":8.0,"tamin":7.8}
+{"fint":"2023-01-12T18:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.9,"tamin":11.3}
+{"fint":"2023-01-12T18:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":18.8,"tamin":18.3}
+{"fint":"2023-01-12T18:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":20.1,"tamin":18.6}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":12.6,"tamin":11.6}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":18.1,"tamin":17.5}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":19.3,"tamin":17.9}
+{"fint":"2023-01-12T18:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":22.1,"tamin":21.7}
+{"fint":"2023-01-12T18:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":22.8,"tamin":21.5}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":13.9,"tamin":13.2}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":21.2,"tamin":20.8}
+{"fint":"2023-01-12T18:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":20.0,"tamin":19.6}
+{"fint":"2023-01-12T18:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":16.5,"tamin":16.0}
+{"fint":"2023-01-12T18:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.3,"tamin":15.2}
+{"fint":"2023-01-12T18:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":20.0,"tamin":19.5}
+{"fint":"2023-01-12T18:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.7,"tamin":19.4}
+{"fint":"2023-01-12T18:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.8,"tamin":12.6}
+{"fint":"2023-01-12T18:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.5,"tamin":16.2}
+{"fint":"2023-01-12T18:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.2,"tamin":17.3}
+{"fint":"2023-01-12T18:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.9,"tamin":19.7}
+{"fint":"2023-01-12T18:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.4,"tamin":11.3}
+{"fint":"2023-01-12T18:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.5,"tamin":15.0}
+{"fint":"2023-01-12T18:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.6,"tamin":18.5}
+{"fint":"2023-01-12T18:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":21.4,"tamin":20.8}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.8,"tamin":6.6}
+{"fint":"2023-01-12T19:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.9,"tamin":7.7}
+{"fint":"2023-01-12T19:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.9,"tamin":11.4}
+{"fint":"2023-01-12T19:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.0,"tamin":18.7}
+{"fint":"2023-01-12T19:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":18.7,"tamin":18.2}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":11.5,"tamin":10.9}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":17.3,"tamin":14.5}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":17.7,"tamin":17.2}
+{"fint":"2023-01-12T19:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":21.8,"tamin":20.8}
+{"fint":"2023-01-12T19:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":21.5,"tamin":21.0}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":13.2,"tamin":13.0}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":20.6,"tamin":19.8}
+{"fint":"2023-01-12T19:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":19.3,"tamin":18.7}
+{"fint":"2023-01-12T19:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.9,"tamin":15.6}
+{"fint":"2023-01-12T19:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.3,"tamin":15.2}
+{"fint":"2023-01-12T19:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.4,"tamin":19.0}
+{"fint":"2023-01-12T19:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.5,"tamin":19.5}
+{"fint":"2023-01-12T19:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.6,"tamin":12.5}
+{"fint":"2023-01-12T19:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.4,"tamin":16.2}
+{"fint":"2023-01-12T19:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.1,"tamin":18.2}
+{"fint":"2023-01-12T19:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.8,"tamin":19.6}
+{"fint":"2023-01-12T19:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.3,"tamin":11.1}
+{"fint":"2023-01-12T19:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.2,"tamin":15.1}
+{"fint":"2023-01-12T19:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.6,"tamin":18.5}
+{"fint":"2023-01-12T19:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":20.9,"tamin":19.8}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.8,"tamin":6.1}
+{"fint":"2023-01-12T20:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.7,"tamin":7.5}
+{"fint":"2023-01-12T20:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.8,"tamin":11.2}
+{"fint":"2023-01-12T20:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.2,"tamin":19.0}
+{"fint":"2023-01-12T20:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":18.7,"tamin":18.4}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":10.8,"tamin":10.0}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":14.3,"tamin":13.5}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":17.2,"tamin":17.1}
+{"fint":"2023-01-12T20:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":20.8,"tamin":20.5}
+{"fint":"2023-01-12T20:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":21.0,"tamin":20.5}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":13.2,"tamin":13.0}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":19.7,"tamin":19.6}
+{"fint":"2023-01-12T20:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":19.1,"tamin":18.9}
+{"fint":"2023-01-12T20:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.9,"tamin":15.7}
+{"fint":"2023-01-12T20:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.5,"tamin":15.4}
+{"fint":"2023-01-12T20:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.7,"tamin":19.4}
+{"fint":"2023-01-12T20:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.7,"tamin":19.6}
+{"fint":"2023-01-12T20:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.6,"tamin":12.5}
+{"fint":"2023-01-12T20:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.6,"tamin":16.4}
+{"fint":"2023-01-12T20:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.2,"tamin":17.2}
+{"fint":"2023-01-12T20:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.8,"tamin":19.6}
+{"fint":"2023-01-12T20:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.3,"tamin":11.1}
+{"fint":"2023-01-12T20:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.5,"tamin":15.3}
+{"fint":"2023-01-12T20:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.6,"tamin":18.5}
+{"fint":"2023-01-12T20:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":19.9,"tamin":19.7}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.8,"tamin":6.4}
+{"fint":"2023-01-12T21:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.8,"tamin":7.1}
+{"fint":"2023-01-12T21:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.9,"tamin":11.5}
+{"fint":"2023-01-12T21:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.1,"tamin":19.0}
+{"fint":"2023-01-12T21:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":18.9,"tamin":18.6}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":10.0,"tamin":9.7}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":13.4,"tamin":12.9}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":17.2,"tamin":17.1}
+{"fint":"2023-01-12T21:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":20.5,"tamin":20.4}
+{"fint":"2023-01-12T21:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":20.5,"tamin":20.0}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":13.2,"tamin":12.9}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":19.6,"tamin":19.3}
+{"fint":"2023-01-12T21:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":19.0,"tamin":18.7}
+{"fint":"2023-01-12T21:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":16.0,"tamin":15.9}
+{"fint":"2023-01-12T21:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.6,"tamin":15.4}
+{"fint":"2023-01-12T21:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.7,"tamin":19.3}
+{"fint":"2023-01-12T21:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.6,"tamin":19.3}
+{"fint":"2023-01-12T21:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.5,"tamin":12.4}
+{"fint":"2023-01-12T21:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.5,"tamin":16.4}
+{"fint":"2023-01-12T21:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.7,"tamin":16.8}
+{"fint":"2023-01-12T21:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.8,"tamin":19.3}
+{"fint":"2023-01-12T21:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.2,"tamin":11.0}
+{"fint":"2023-01-12T21:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.5,"tamin":15.4}
+{"fint":"2023-01-12T21:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.6,"tamin":18.4}
+{"fint":"2023-01-12T21:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":19.8,"tamin":19.4}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":6.3,"tamin":5.8}
+{"fint":"2023-01-12T22:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.3,"tamin":7.0}
+{"fint":"2023-01-12T22:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.6,"tamin":10.9}
+{"fint":"2023-01-12T22:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.1,"tamin":19.0}
+{"fint":"2023-01-12T22:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":18.8,"tamin":18.6}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":9.6,"tamin":8.9}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":12.8,"tamin":12.6}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":17.2,"tamin":17.1}
+{"fint":"2023-01-12T22:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":20.4,"tamin":20.1}
+{"fint":"2023-01-12T22:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":20.2,"tamin":19.9}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":12.9,"tamin":12.6}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":19.2,"tamin":18.9}
+{"fint":"2023-01-12T22:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":18.8,"tamin":18.6}
+{"fint":"2023-01-12T22:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.9,"tamin":15.4}
+{"fint":"2023-01-12T22:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.5,"tamin":15.4}
+{"fint":"2023-01-12T22:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.3,"tamin":19.3}
+{"fint":"2023-01-12T22:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.4,"tamin":19.3}
+{"fint":"2023-01-12T22:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.3,"tamin":12.1}
+{"fint":"2023-01-12T22:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.4,"tamin":16.2}
+{"fint":"2023-01-12T22:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":19.8,"tamin":16.3}
+{"fint":"2023-01-12T22:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.5,"tamin":19.2}
+{"fint":"2023-01-12T22:00:00","ubi":"VALLESECO","idema":"C665T","tamax":11.0,"tamin":10.7}
+{"fint":"2023-01-12T22:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.6,"tamin":15.4}
+{"fint":"2023-01-12T22:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.4,"tamin":18.3}
+{"fint":"2023-01-12T22:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":19.4,"tamin":19.1}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","idema":"C611E","tamax":5.8,"tamin":5.5}
+{"fint":"2023-01-12T23:00:00","ubi":"TEJEDA-CRUZ DE TEJEDA","idema":"C612F","tamax":7.1,"tamin":6.5}
+{"fint":"2023-01-12T23:00:00","ubi":"TEJEDA CASCO","idema":"C614H","tamax":11.3,"tamin":10.7}
+{"fint":"2023-01-12T23:00:00","ubi":"AGAETE-CASCO","idema":"C619X","tamax":19.0,"tamin":18.9}
+{"fint":"2023-01-12T23:00:00","ubi":"LA ALDEA DE SAN NICOLAS","idema":"C619Y","tamax":18.9,"tamin":18.6}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","idema":"C623I","tamax":9.1,"tamin":8.9}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","idema":"C625O","tamax":12.5,"tamin":12.5}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","idema":"C628B","tamax":17.2,"tamin":16.9}
+{"fint":"2023-01-12T23:00:00","ubi":"MOGAN (PUERTO RICO)","idema":"C629Q","tamax":20.0,"tamin":19.8}
+{"fint":"2023-01-12T23:00:00","ubi":"PUERTO DE MOGÁN","idema":"C629X","tamax":19.9,"tamin":17.7}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","idema":"C635B","tamax":12.7,"tamin":11.4}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","idema":"C639M","tamax":18.9,"tamin":18.8}
+{"fint":"2023-01-12T23:00:00","ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","idema":"C639U","tamax":18.6,"tamin":18.5}
+{"fint":"2023-01-12T23:00:00","ubi":"AGÜIMES-EL MILANO","idema":"C648C","tamax":15.5,"tamin":15.4}
+{"fint":"2023-01-12T23:00:00","ubi":"TELDE-CENTRO FORESTAL DORAMAS","idema":"C648N","tamax":15.4,"tamin":15.3}
+{"fint":"2023-01-12T23:00:00","ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","idema":"C649I","tamax":19.3,"tamin":19.2}
+{"fint":"2023-01-12T23:00:00","ubi":"TELDE-MELENARA","idema":"C649R","tamax":19.4,"tamin":19.2}
+{"fint":"2023-01-12T23:00:00","ubi":"TEROR-OSORIO","idema":"C656V","tamax":12.0,"tamin":11.8}
+{"fint":"2023-01-12T23:00:00","ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","idema":"C658X","tamax":16.3,"tamin":16.2}
+{"fint":"2023-01-12T23:00:00","ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","idema":"C659H","tamax":20.4,"tamin":19.0}
+{"fint":"2023-01-12T23:00:00","ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","idema":"C659M","tamax":19.5,"tamin":19.3}
+{"fint":"2023-01-12T23:00:00","ubi":"VALLESECO","idema":"C665T","tamax":10.5,"tamin":10.2}
+{"fint":"2023-01-12T23:00:00","ubi":"AGAETE - SUERTE ALTA","idema":"C668V","tamax":15.5,"tamin":15.2}
+{"fint":"2023-01-12T23:00:00","ubi":"ARUCAS-BAÑADEROS","idema":"C669B","tamax":18.3,"tamin":18.3}
+{"fint":"2023-01-12T23:00:00","ubi":"MASPALOMAS","idema":"C689E","tamax":19.2,"tamin":19.0}
